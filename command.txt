@@ -1,0 +1,1 @@
+ffmpeg -f dshow -i video="UScreenCapture":audio="VoiceMeeter Output (VB-Audio VoiceMeeter VAIO)" output.mkv
